@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2021-06-03T01:05:51.375993",
+  "weWillSendSMS": "We'll send an SMS",
+  "@weWillSendSMS": {
+    "description": "Will be shown on verify screen",
+    "type": "text",
+    "placeholders": {}
+  }
+}
